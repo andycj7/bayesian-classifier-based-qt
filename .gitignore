@@ -1,0 +1,13 @@
+*.o
+.DS_Store
+test.cpp
+moc_mydialog.cpp
+PHTextEdit.h
+qrc_application.cpp
+temp-qxvskmitbr
+test.py
+test
+./.gitignore
+.vscode
+bayes.dSYM/*
+ai_assignment_bayes.app/*
